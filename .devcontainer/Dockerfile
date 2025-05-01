@@ -1,4 +1,4 @@
-FROM quay.io/jupyter/${templateOption:baseVariant}:${templateOption:imageVariant}
+FROM quay.io/jupyter/datascience-notebook:latest
 
 USER root
 # Generally, Dev Container Features assume that the non-root user (in this case jovyan)
