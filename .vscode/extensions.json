@@ -7,7 +7,6 @@
         "ms-toolsai.vscode-jupyter-slideshow",
         "ms-python.python",
         "ms-python.pylint",
-        "ms-python.vscode-pylance",
         "ms-vscode-remote.remote-containers"
     ]
 }
